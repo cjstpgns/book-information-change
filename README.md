@@ -1,1 +1,1 @@
-# book-information-change
+# 회원정보 수정하기 응용 책 정보 수정
